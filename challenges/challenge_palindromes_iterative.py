@@ -1,3 +1,6 @@
 def is_palindrome_iterative(word):
-    """Faça o código aqui."""
-    raise NotImplementedError
+    if len(word) == 0:
+        return False
+    invertida = word[::-1]
+
+    return word == invertida
