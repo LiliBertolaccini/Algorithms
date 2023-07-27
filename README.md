@@ -1,8 +1,8 @@
-- Desenvolven a capacidade de implementar soluções para diversos problemas;
-- Utilizar a lógica;
-- Resolver problemas;
-- Otimizar algoritmos;
-- Interpretação;
-- Interpretação de um código legado;
-- Capacidade de otimizar a resolução do problemas;
-- Sob pressão.
+
+Projeto desenvolvido para:
+
+Capacidade de otimizar    a   resolução do problemas,   implementando soluções  utilizando a lógica.    
+Interpretando um código legado      e        sob pressão;
+
+
+Foi utilizado a stack: Python
